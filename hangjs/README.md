@@ -91,17 +91,14 @@ po by [junmer](https://github.com/junmer)
 
 ## 如何快速构建MVC应用 
 
-* 介绍了一个成长中node的MVC framework [Rabbit.js][rabbit-js]
+* 介绍了一个成长中node的MVC framework [Rabbit.js](https://github.com/xinyu198736/Rabbit.js)  
 * 业界著名: [Sails.js](http://sailsjs.org/), [Geddy.js](http://geddyjs.org/), [Express.js](http://expressjs.com/)
 * 我更喜欢po主的另一个作品 [颜文字](http://html-js.com/static/yanwenzi.html)
 
 ----
 
 > [小芋头君](http://weibo.com/676588498)  
-> [Rabbit.js][rabbit-js]  
 > [Node.js MVC Construction Rabbit.js快速构建MVC应用](http://2014.jsconf.cn/slides/Rabbit.js-MVC.pdf)  
-
-[rabbit-js]:https://github.com/xinyu198736/Rabbit.js
 
 ---
 
@@ -127,9 +124,7 @@ po by [junmer](https://github.com/junmer)
 ----
 
 > [sofish](http://sofi.sh/)  
-> [优化你的Angular Web App][angular-web-app]  
- 
-[angular-web-app]: http://sofi.sh/2412 
+> [优化你的Angular Web App](http://sofi.sh/2412)  
 
 ---
 
