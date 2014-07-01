@@ -1,4 +1,4 @@
-# Hangjs 碎碎念
+# Hangjs Summary
 
 po by [junmer](https://github.com/junmer)
 
@@ -39,7 +39,7 @@ po by [junmer](https://github.com/junmer)
 
 * `吐槽` 前后端分工混乱 
 * `主题` NODEJS 拯救世界
-* `实施` 接口服务化 ([JSON Schema](http://json-schema.org/))、代码模块化(XMD)、功能组件化
+* `实施` 接口服务化 ([JSON Schema](http://json-schema.org/))、代码模块化([XMD](http://addyosmani.com/writing-modular-js/))、功能组件化
 
 ----
 
@@ -52,7 +52,7 @@ po by [junmer](https://github.com/junmer)
 ## Google BigQuery API Node.js实践
 
 * [Google BigQuery](https://developers.google.com/bigquery) 很强大
-* po主 通过[oauth](http://oauth.net/) 实现了一个 npm modules [bigquery](https://github.com/peihsinsu/bigquery)
+* po主 通过[oauth](http://oauth.net/) 实现了一个 npm module [bigquery](https://github.com/peihsinsu/bigquery)
 * 更多可以玩的 [google apis](https://developers.google.com/apis-explorer/)
 
 ----
