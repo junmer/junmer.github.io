@@ -1,8 +1,6 @@
 # Hangjs Summary
 
-po by [junmer](https://github.com/junmer)
-
-[slide](http://junmer.github.io/hangjs) by [reveal-md](https://github.com/webpro/reveal-md)
+by [junmer](https://github.com/junmer), [slide](http://junmer.github.io/hangjs) by [reveal-md](https://github.com/webpro/reveal-md)
 
 ---
 
@@ -112,7 +110,7 @@ po by [junmer](https://github.com/junmer)
 
 > [berg](http://cnberg.com/)  
 > [BlendUI](https://github.com/Clouda-team/BlendUI)  
-> [BlendUI 让轻应⽤用如Native般流畅](http://2014.jsconf.cn/slides/BlendUI.pdf)  
+> [BlendUI 让轻应用如Native般流畅](http://2014.jsconf.cn/slides/BlendUI.pdf)  
 
 ---
 
